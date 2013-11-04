@@ -4,7 +4,7 @@
 
 = Introdução =
 
-Projeto de Faculdade curso de Bacharelado de Sistemas de Informação. Objetivo é elaborar uma aplicação CRUD de uma agenda de contatos "simples" com interface gráfica com menus e armazenamento de dados em memória não persistente (RAM).
+Desenvolver um projeto de Faculdade para o curso de Bacharelado de Sistemas de Informação. Com o objetivo de elaborar uma aplicação CRUD de uma agenda de contatos "simples" com interface gráfica com menus e armazenamento de dados em memória não persistente (RAM).
 
 
 = Funcionamento da Aplicação =
@@ -34,5 +34,3 @@ _Exemplo: Código de Área e Telefone Móvel (11952777312).
 Para editar um contato basta dar um duplo click na célula da lista de contatos da tabela que deseja alterar e realizar a alteração que deseja.
 
 *_Obs.: Como esse projeto não tem como objetivo o armazenamento de dados ao realizar o fechamento da aplicação todos os contatos cadastrados serão perdidos.*
-
-
