@@ -1,0 +1,11 @@
+#summary One-sentence summary of this page.
+
+= Introdução =
+
+Projeto de Faculdade curso de Bacharelado de Sistemas de Informação. Objetivo é elaborar uma aplicação CRUD de uma agenda de contatos "simples" com interface gráfica com menus e armazenamento de dados em memória não persistente (RAM).
+
+
+
+= Detalhes =
+
+O usuário que se utilizará do sistemas terá que somente realizar o download do aplica
