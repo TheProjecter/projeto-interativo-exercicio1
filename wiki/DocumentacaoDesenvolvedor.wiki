@@ -1,0 +1,12 @@
+#summary One-sentence summary of this page.
+
+= Introdução =
+
+Desenvolver um projeto de Faculdade para o curso de Bacharelado de Sistemas de Informação. Com o objetivo de elaborar uma aplicação CRUD de uma agenda de contatos "simples" com interface gráfica com menus e armazenamento de dados em memória não persistente (RAM).
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
