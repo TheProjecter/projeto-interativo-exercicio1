@@ -14,4 +14,6 @@ Desenvolver um projeto de Faculdade para o curso de Bacharelado de Sistemas de I
 
 *_- Classe "interfaceAgenda": Nessa classe foi desenvolvido a interface que interage com o usuário. Se utilizando do Eclipse com componentes do WindowsBuilder criamos a interface com o usuário em JFrame. Simples e compacta composta por somente uma tela. Onde o usuário pode interagir com o o sistema de forma fácil e objetiva.
 
-*_-Classe 
+*_- Classe "lista": Nessa classe foi desenvolvido o método (LinkedList) para inserção dos dados dos usuários.
+
+O sistema foi desenvolvido com simplicidade tanto para uso do usuário quanto para manuseio do desenvolvedor, com métodos simples e eficazes. Criamos uma aplicação que não armazena dados em banco de dados, mas os mantém em lista e apresenta em tabela os dados inseridos para consulta enquanto o sistema estiver em uso. 
