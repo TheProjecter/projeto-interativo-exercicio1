@@ -1,0 +1,3 @@
+Elaborar uma aplicação CRUD de uma agenda de contatos "simples" com interface gráfica com menus e armazenamento de dados em memória não persistente (RAM).
+
+A entrega deve ser feita em grupo. Somente um aluno do grupo deve entregar um link para o projeto de resolução do exercício no google code que deve ter o projeto de desenvolvimento da aplicação carregado na área do repositório do gerenciados de configuração (subversion). O grupo deve atualizar o wiki da pagina do projeto do google code inserindo a documentação de usuário e desenvolvedor do projeto.
